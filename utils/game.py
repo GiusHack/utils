@@ -36,7 +36,7 @@ class Hangman():
 
     
     def well_played(self):
-        print("You found the word: {}".format(self.word_to_find), "in {}".format(self.turncount), "turns with {}".format(self.error_count), "errors!.")
+        print("You found the word: {}".format(self.word_to_find), "in {}".format(self.turncount), "turns with {}".format(self.error_count), "errors!")
    
     def game_over(self): 
         print("Game over. The word was: ", self.word_to_find)
