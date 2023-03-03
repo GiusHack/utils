@@ -40,7 +40,6 @@ class Hangman():
    
     def game_over(self): 
         print("Game over. The word was: ", self.word_to_find)
-        return
     """
     les deux fonctions si dessus permettre l'affichage de la victoire ou de la defaite, 
     on les implémantera dans la fonction "start_game".
@@ -59,5 +58,3 @@ class Hangman():
             return # Arret de la boucle
         
 
-hangman = Hangman()
-hangman.start_game()
