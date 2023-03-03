@@ -6,7 +6,7 @@ Description :
 
 Installation : 
     
-    Pour commencer, j'ai téléchargé Python et anaconda via mon Terminal. Et j'ai choisis Vs Code pour ecrire mon script.
+    Python 3, Anaconda, Vs Code sur Mac Os
 
 Contributors : 
     
